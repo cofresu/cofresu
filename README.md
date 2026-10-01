@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://halloffame.asia/kyubey.gif" width="180" alt="Kyubey" />
+  <img src="https://arcs.halloffame.asia/kyubey.gif" width="180" alt="Kyubey" />
 </p>
 
 <p align="center">
